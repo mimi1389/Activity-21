@@ -32,3 +32,8 @@ footer {
     .txt-row a {
         color: #f6d6e0;
     }
+.project-container{
+    padding-left: 30%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
