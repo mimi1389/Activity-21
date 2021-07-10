@@ -1,1 +1,34 @@
 
+footer {
+    margin-top: 0;
+}
+
+.page-footer {
+    text-align: center;
+    justify-content: center;
+    background-color: #7209b7;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.txt-row {
+    padding-top: 1.5%;
+}
+
+    .txt-row h2, p {
+        color: white;
+        font-family: 'helvetica', 'san-serif';
+    }
+
+    .txt-row h2 {
+        font-size: 1.5em;
+    }
+
+    .txt-row p {
+        font-weight: 100;
+    }
+
+    .txt-row a {
+        color: #f6d6e0;
+    }
